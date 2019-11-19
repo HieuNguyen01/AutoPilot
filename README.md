@@ -1,2 +1,2 @@
 # AutoPilot
-Embedded System - System Modeling Project
+Embedded System - System Modeling Project - Group 2
