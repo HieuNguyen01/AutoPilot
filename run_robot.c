@@ -11,7 +11,11 @@ task main()
 		{
 			motor(leftMotor)=20;
 			motor(rightMotor)=20;
-			wait1Msec(2000);
+		}
+		else
+		{
+			motor(leftMotor)=0;
+			motor(rightMotor)=0;
 		}
 	}
 }
